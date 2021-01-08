@@ -1,4 +1,4 @@
-# Deep-Learning-Course
+# Deep-Learning
 
 Assignment 1 : Implementing AND Gate through perceptron
 
